@@ -4,8 +4,8 @@ const path = require('path');
 const PORT = process.env.PORT || 3001;
 const app = express();
 
-const apiRouter = require('./routes/notes.js');
-const htmlRouter =require('./routes/html.js');
+const apiRouter = require('./Develop/routes/notes.js');
+const htmlRouter =require('./Develop/routes/html.js');
 
 
 app.use(express.json());
