@@ -4,18 +4,8 @@
     "text": "Test text"
   },
   {
-    "title": "kky",
-    "text": "jytjgy",
-    "note_id": "2e22"
-  },
-  {
-    "title": "home work",
-    "text": "tonight",
-    "note_id": "a88e"
-  },
-  {
-    "title": "Test 1",
-    "text": "succeed\n",
-    "note_id": "8210"
+    "title": "Test 2",
+    "text": "hello node.js",
+    "id": "1d7f"
   }
 ]

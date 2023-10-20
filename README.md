@@ -30,3 +30,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 ## Screenshots
+![demo](./Assets/1.png)
+![demo](./Assets/2.png)
+![demo](./Assets/3.png)
